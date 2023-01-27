@@ -18,6 +18,7 @@ func PersonId() {
 	fmt.Scan(&age)
 	fmt.Println("HP: ")
 	fmt.Scan(&phone)
+	fmt.Println("--------------------")
 
 	fmt.Println("My name is", name)
 	fmt.Println("I am", age, "years old")
