@@ -20,7 +20,7 @@ func PersonId() {
 	fmt.Scan(&phone)
 	fmt.Println("--------------------")
 
-	fmt.Println("My name is", name)
+	fmt.Println("My name is ", name)
 	fmt.Println("I am", age, "years old")
 	fmt.Println("My phone number is", phone)
 
